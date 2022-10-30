@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/ryanreynold21/akw-2022-test/issues"
   },
-  "homepage": "https://github.com/ryanreynold21/akw-2022-test#readme"
+  "homepage": "https://github.com/ryanreynold21/akw-2022-test#readme",
+  "dependencies": {
+    "user": "^0.0.0"
+  },
+  "devDependencies": {}
 }
