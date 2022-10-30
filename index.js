@@ -10,5 +10,5 @@ export function showMynameUi(){
     h1.innerText = myname;
     h1.style.color = "black"
     h1.style.fontSize = "100px"
-    document.body.append(hq)
+    document.body.append(h1);
 };
